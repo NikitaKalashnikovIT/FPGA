@@ -47,11 +47,6 @@ end else begin
   end
 end
 
-<<<<<<< HEAD
-// 55
-=======
-// 15_29
->>>>>>> hotfix
 endmodule
 
 
